@@ -1,42 +1,47 @@
-Hi there 👋. I'm New WEB Back-End Developer.
+## Hi there 👋. I'm Sumin Song.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakakss225&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h2 align="center">💪Skills💻</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=Python&logoColor=blue"/> 
-  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=black"/>
+<h2 align="left">💪Skills💻</h2>
+<div align="left">
+  Back-End Platform & Languages
+  <br>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=blue"/> 
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white"/>
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-navy?style=flat&logo=HTML5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/css3-pink?style=flat&logo=CSS3&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-gray?style=flat&logo=React&logoColor=skyblue"/>
-  <img src="https://img.shields.io/badge/JavaScript-orange?style=flat&logo=JavaScript&logoColor=black"/>
+<br>
+<div align="left">
+  Front-End Platform & Languages
+  <br>
+  <img src="https://img.shields.io/badge/html5-navy?style=for-the-badge&logo=HTML5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/css3-pink?style=for-the-badge&logo=CSS3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React&logoColor=skyblue"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/R-white?style=flat&logo=R&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse IDE-blue?style=flat&logo=Eclipse IDE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VScode-white?style=flat&logo=Visual Studio&logoColor=blue"/>
+<br>
+<div align="left">
+  Athers & Tools
+  <br>
+  <img src="https://img.shields.io/badge/R-white?style=for-the-badge&logo=R&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse IDE-blue?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VScode-white?style=for-the-badge&logo=Visual Studio&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Github&logoColor=white"/>
 </div>
+<hr>
 
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akakss225&hide=javascript,html,css,scss&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<h2>🔥Activities🔥</h2>
 
 ![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akakss225&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akakss225&hide=javascript,html,css,scss&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
+
+
 
 
 <!--
