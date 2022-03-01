@@ -1,4 +1,4 @@
-## Hi there 👋. I'm Sumin Song.
+## 👋 Hi there 👋 I'm Sumin Song.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakakss225&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -35,10 +35,10 @@
 <h2>🔥Activities🔥</h2>
 
 ![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akakss225&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akakss225&hide=javascript,html,css,scss&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akakss225&hide=javascript,html,css,scss&layout=compact&theme=radical)](https://github.com/akakss225/github-readme-stats)
 
-
-
+<hr>
+<h2>🔗Contact ME📮</h2>
 
 
 
