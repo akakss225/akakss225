@@ -35,11 +35,7 @@
 <h2>🔥Activities🔥</h2>
 
 ![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akakss225&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akakss225&hide=javascript,html,css,scss&layout=compact&theme=radical)](https://github.com/akakss225/github-readme-stats)
-
-<hr>
-<h2>🔗Contact ME📮</h2>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akakss225&hide=javascript,html,css,scss&layout=compact&theme=radical)
 
 
 
