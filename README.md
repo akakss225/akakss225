@@ -5,17 +5,20 @@ Hi there 👋. I'm New WEB Back-End Developer.
 <div align="center">
   <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=Python&logoColor=blue"/> 
-  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=orange"/>
   <img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=black"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-orange?style=flat&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/html5-navy?style=flat&logo=HTML5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/css3-pink?style=flat&logo=CSS3&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-gray?style=flat&logo=React&logoColor=skyblue"/>
+  <img src="https://img.shields.io/badge/JavaScript-orange?style=flat&logo=JavaScript&logoColor=black"/>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/R-white?style=flat&logo=R&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse IDE-blue?style=flat&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VScode-white?style=flat&logo=Visual Studio&logoColor=blue"/>
 </div>
 
 
